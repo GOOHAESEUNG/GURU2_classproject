@@ -1,0 +1,2 @@
+com/example/xylophone/BuildConfig.java
+ com.example.xylophone.BuildConfig

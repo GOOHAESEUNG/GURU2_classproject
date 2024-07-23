@@ -1,0 +1,2 @@
+com/example/studentmanagement/BuildConfig.java
+ com.example.studentmanagement.BuildConfig

@@ -1,0 +1,2 @@
+com/example/stopwatch/BuildConfig.java
+ com.example.stopwatch.BuildConfig

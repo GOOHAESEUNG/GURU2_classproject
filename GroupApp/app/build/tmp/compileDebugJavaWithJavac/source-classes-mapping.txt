@@ -1,0 +1,2 @@
+com/example/groupapp/BuildConfig.java
+ com.example.groupapp.BuildConfig

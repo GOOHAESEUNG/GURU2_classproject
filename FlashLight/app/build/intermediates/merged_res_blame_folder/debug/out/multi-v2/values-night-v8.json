@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\FlashLight\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\amu66\\.gradle\\caches\\transforms-2\\files-2.1\\c60804fb7fb0fdbfaea91d9314f00324\\material-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,43,44,45,46,47,48,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1454,1542,1666,1768,1870,1986,2088,2202,2330,2446,2568,2704,2824,2958,3078,3190,3634,3772,3896,4026,4148,4286,4402",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "1537,1661,1763,1865,1981,2083,2197,2325,2441,2563,2699,2819,2953,3073,3185,3311,3767,3891,4021,4143,4281,4397,4517"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amu66\\.gradle\\caches\\transforms-2\\files-2.1\\16b6b42cd48b7e1b773175d6c5191e8c\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,38",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,170,254,338,434,536,638,3316",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "165,249,333,429,531,633,727,3400"
+                    }
+                },
+                {
+                    "source": "C:\\FlashLight\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,841",
+                        "endLines": "14,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "833,1068"
+                    },
+                    "to": {
+                        "startLines": "9,39",
+                        "startColumns": "4,4",
+                        "startOffsets": "732,3405",
+                        "endLines": "21,42",
+                        "endColumns": "12,12",
+                        "endOffsets": "1449,3629"
+                    }
+                }
+            ]
+        }
+    ]
+}

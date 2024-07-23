@@ -1,0 +1,2 @@
+com/example/flashlight/BuildConfig.java
+ com.example.flashlight.BuildConfig
