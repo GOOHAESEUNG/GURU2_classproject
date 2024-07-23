@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hw03</string>
+    <string name="textview">TextView 텍스트뷰</string>
+</resources>
